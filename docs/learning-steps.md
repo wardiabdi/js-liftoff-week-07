@@ -44,5 +44,5 @@ looking into JavaScript objects
 ### Week 08
 
 ### Week 09
-#Fibinacci Squence
+Fibinacci Squence
 
